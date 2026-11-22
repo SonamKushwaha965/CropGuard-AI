@@ -1,0 +1,6 @@
+{
+  "name": "Smart Crop Disease Detection",
+  "description": "AI-powered web application for real-time crop leaf disease diagnostics, treatment recommendations, offline edge detection, and multilingual farmer accessibility.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

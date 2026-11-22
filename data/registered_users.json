@@ -1,0 +1,46 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Agronomy Admin Desk",
+    "email": "admin@crophealth.org",
+    "passwordHash": "admin123",
+    "role": "admin",
+    "phone": "+91 98765 00000",
+    "location": "Central Agricultural Research Directorate",
+    "primaryCrop": "Multi-Crop Surveillance",
+    "createdAt": "2026-10-10T11:32:02.745Z"
+  },
+  {
+    "id": "user-farmer-1",
+    "name": "Ramesh Patel",
+    "email": "ramesh.farmer@gmail.com",
+    "passwordHash": "farmer123",
+    "role": "farmer",
+    "phone": "+91 98221 44550",
+    "location": "Nashik, Maharashtra",
+    "primaryCrop": "Tomato & Grapes",
+    "createdAt": "2026-10-30T11:32:02.745Z"
+  },
+  {
+    "id": "user-farmer-2",
+    "name": "Gurpreet Singh",
+    "email": "gurpreet.agri@gmail.com",
+    "passwordHash": "farmer123",
+    "role": "farmer",
+    "phone": "+91 94172 33441",
+    "location": "Jalandhar, Punjab",
+    "primaryCrop": "Potato & Wheat",
+    "createdAt": "2026-11-01T11:32:02.745Z"
+  },
+  {
+    "id": "user-farmer-3",
+    "name": "Muthuvel Karunan",
+    "email": "muthuvel.farm@gmail.com",
+    "passwordHash": "farmer123",
+    "role": "farmer",
+    "phone": "+91 98401 22334",
+    "location": "Thanjavur, Tamil Nadu",
+    "primaryCrop": "Paddy / Rice",
+    "createdAt": "2026-11-04T11:32:02.745Z"
+  }
+]
